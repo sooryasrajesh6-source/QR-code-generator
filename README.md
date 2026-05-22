@@ -16,4 +16,4 @@ A responsive QR Code Generator built using HTML, CSS, and JavaScript.
 - QRCode.js
 
 ## Live Demo
-https://YOUR_USERNAME.github.io/qr-code-generator/
+https://sooryasrajesh6.github.io/qr-code-generator/
